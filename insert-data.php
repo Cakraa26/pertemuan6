@@ -34,7 +34,7 @@
             </select>
         </div>
         <div>
-            <button type="submit">Submit</button>
+            <button type="submit" name="simpandata">Submit</button>
         </div>
     </form>
 </body>
